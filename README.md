@@ -16,3 +16,6 @@ javac -d bin src/enums/\*.java src/entidades/\*.java src/BatalhaNaval.java
 
 # Rodar 
 java -cp bin BatalhaNaval
+
+# TDD:
+<img width="1135" height="545" alt="imagem" src="https://github.com/user-attachments/assets/a8d935d4-2e25-4c0f-bf09-00984d7a3bd0" />
